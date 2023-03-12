@@ -1,0 +1,6 @@
+.header {
+  padding: 34px 0 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

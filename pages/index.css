@@ -1,0 +1,19 @@
+/* Código para modificar los estilos predeterminados del navegador */
+
+@import url(../vendor/normalize.css);
+
+/* Estilos globales de la página */
+
+@import url(../blocks/page/page.css);
+
+/* Estilos de bloques complementarios */
+/*link*/
+
+/* Estilos de bloques y elementos de la página */
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__image/header__image.css);
