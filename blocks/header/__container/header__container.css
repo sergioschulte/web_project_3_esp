@@ -1,5 +1,6 @@
-.header {
-  padding: 34px 0 46px;
+.header__container {
+  width: 77%;
+  margin-top: 90px;
   display: flex;
   flex-direction: column;
   align-items: center;
