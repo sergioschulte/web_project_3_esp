@@ -1,6 +1,6 @@
 .intro__quote {
-  width: 71%;
-  margin: 0 0 32px;
+  max-width: 720px;
+  margin: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
