@@ -1,0 +1,7 @@
+.cards {
+  max-width: 984px;
+  width: 77%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 80px;
+}
