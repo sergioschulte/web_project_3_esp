@@ -7,7 +7,10 @@
 @import url(../blocks/page/page.css);
 
 /* Estilos de bloques complementarios */
-/*link*/
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_section/button_section_places.css);
+@import url(../blocks/button/_section/button_section_cover.css);
 
 /* Estilos de bloques y elementos de la página */
 
@@ -39,6 +42,12 @@
 @import url(../blocks/cards/__artist/cards__artist.css);
 @import url(../blocks/cards/__image-wrapper/cards__image-wrapper.css);
 @import url(../blocks/cards/__image/cards__image.css);
-@import url(../blocks/cards/__button/cards__button.css);
 @import url(../blocks/cards/__main-text/cards__main-text.css);
 @import url(../blocks/cards/__paragraph/cards__paragraph.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__container/cover__container.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__group/cover__group.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
