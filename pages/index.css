@@ -51,3 +51,6 @@
 @import url(../blocks/cover/__group/cover__group.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
