@@ -8,3 +8,9 @@
   text-align: center;
   color: #ffffff;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__subtitle {
+    margin: 0 0 69px;
+  }
+}

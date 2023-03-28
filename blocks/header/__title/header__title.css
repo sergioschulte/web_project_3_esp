@@ -8,3 +8,10 @@
   text-align: center;
   color: #ffffff;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__title {
+    max-width: 720px;
+    margin: 0 0 99px;
+  }
+}
