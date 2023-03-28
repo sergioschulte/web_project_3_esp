@@ -2,3 +2,9 @@
   max-width: 1017px;
   margin: auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .intro__container {
+    max-width: 720px;
+  }
+}
