@@ -3,3 +3,9 @@
   max-width: 984px;
   filter: grayscale(1);
 }
+
+@media screen and (max-width: 1024px) {
+  .header__image {
+    max-width: none;
+  }
+}
