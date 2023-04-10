@@ -3,3 +3,9 @@
   font-size: 24px;
   line-height: 1.42;
 }
+
+@media screen and (max-width: 540px) {
+  .intro__text_type_quote {
+    line-height: 1.25;
+  }
+}
