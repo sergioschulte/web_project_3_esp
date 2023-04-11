@@ -11,3 +11,11 @@
     column-gap: 28px;
   }
 }
+
+@media screen and (max-width: 540px) {
+  .cards__item {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 30px 0;
+  }
+}

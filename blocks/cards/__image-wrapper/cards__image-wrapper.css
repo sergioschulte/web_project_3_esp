@@ -5,3 +5,11 @@
   grid-row: 2;
   row-gap: 48px;
 }
+
+@media screen and (max-width: 540px) {
+  .cards__image-wrapper {
+    align-items: center;
+    grid-row: 3;
+    row-gap: 30px;
+  }
+}

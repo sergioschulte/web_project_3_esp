@@ -9,3 +9,9 @@
     padding: 44px 24px 46px;
   }
 }
+
+@media screen and (max-width: 540px) {
+  .places {
+    padding: 31px 0 32px;
+  }
+}
