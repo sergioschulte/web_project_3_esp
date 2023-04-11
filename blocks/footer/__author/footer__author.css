@@ -7,3 +7,9 @@
   color: #ffffff;
   text-align: center;
 }
+
+@media screen and (max-width: 540px) {
+  .footer {
+    line-height: 1;
+  }
+}
