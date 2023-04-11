@@ -8,3 +8,9 @@
     width: auto;
   }
 }
+
+@media screen and (max-width: 540px) {
+  .cover__image {
+    height: 254px;
+  }
+}

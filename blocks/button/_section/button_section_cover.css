@@ -2,3 +2,10 @@
   max-width: 198px;
   margin-top: 32px;
 }
+
+@media screen and (max-width: 540px) {
+  .button_section_cover {
+    margin-top: 16px;
+    padding: 13px 20px;
+  }
+}
