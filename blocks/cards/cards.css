@@ -2,13 +2,13 @@
   max-width: 984px;
   display: flex;
   flex-direction: column;
-  row-gap: 80px;
+  row-gap: 92px;
 }
 
 @media screen and (max-width: 1024px) {
   .cards {
     max-width: 720px;
-    row-gap: 48px;
+    row-gap: 58px;
   }
 }
 

@@ -9,12 +9,6 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1024px) {
-  .header__subtitle {
-    margin: 0 0 69px;
-  }
-}
-
 @media screen and (max-width: 540px) {
   .header__subtitle {
     max-width: 288px;

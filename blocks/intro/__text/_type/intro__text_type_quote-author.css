@@ -1,8 +1,8 @@
 .intro__text_type_quote-author {
-  margin: 0 0 32px;
+  margin: 8px 0 32px;
   font-size: 24px;
   line-height: 1.42;
-  text-align: right;
+  /* text-align: right; */
 }
 
 @media screen and (max-width: 540px) {
