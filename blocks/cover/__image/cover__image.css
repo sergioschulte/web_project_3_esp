@@ -1,6 +1,11 @@
 .cover__image {
   width: 100%;
   opacity: 0.7;
+  transition: opacity 0.5s ease-out;
+}
+
+.cover__container:hover .cover__image {
+  opacity: 0.2;
 }
 
 @media screen and (max-width: 1024px) {
