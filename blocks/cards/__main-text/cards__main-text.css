@@ -14,10 +14,10 @@
 
 @media screen and (max-width: 540px) {
   .cards__main-text {
-    max-width: 288px;
+    max-width: 382px;
     margin: 0 16px;
     grid-column: 1;
     grid-row: 4;
-    row-gap: 25px;
+    /* row-gap: 25px; */
   }
 }

@@ -1,6 +1,6 @@
 .cover__image {
   width: 100%;
-  opacity: 0.7;
+  opacity: 0.4;
   transition: opacity 0.5s ease-out;
 }
 
@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 540px) {
   .cover__image {
-    height: 254px;
+    width: 100%;
   }
 }

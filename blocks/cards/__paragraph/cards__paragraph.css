@@ -9,7 +9,6 @@
 
 @media screen and (max-width: 1024px) {
   .cards__paragraph {
-    font-size: 16px;
     line-height: 1.63;
   }
 }

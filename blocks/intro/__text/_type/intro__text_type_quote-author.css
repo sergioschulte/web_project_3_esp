@@ -6,6 +6,7 @@
 
 @media screen and (max-width: 540px) {
   .intro__text_type_quote-author {
-    margin: 0 0 9px;
+    margin: 0 0 20px;
+    font-size: 22px;
   }
 }

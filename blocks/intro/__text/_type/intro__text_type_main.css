@@ -3,3 +3,11 @@
   font-size: 18px;
   line-height: 1.63;
 }
+
+@media screen and (max-width: 540px) {
+  .intro__text_type_main {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.63;
+  }
+}
