@@ -8,7 +8,7 @@
 @media screen and (max-width: 1024px) {
   .cards__item {
     grid-template-columns: 1fr 1fr;
-    column-gap: 28px;
+    gap: 28px;
   }
 }
 

@@ -8,7 +8,7 @@
 @media screen and (max-width: 1024px) {
   .cards {
     max-width: 720px;
-    row-gap: 58px;
+    row-gap: 68px;
   }
 }
 
