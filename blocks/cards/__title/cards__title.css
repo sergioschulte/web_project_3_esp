@@ -1,6 +1,8 @@
 .cards__title {
   margin: 0;
+  -ms-grid-column: 1;
   grid-column: 1;
+  -ms-grid-row: 1;
   grid-row: 1;
   font-style: normal;
   font-weight: 900;

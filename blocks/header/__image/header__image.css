@@ -1,6 +1,7 @@
 .header__image {
   width: 100%;
   max-width: 984px;
+  -webkit-filter: grayscale(1);
   filter: grayscale(1);
 }
 

@@ -1,4 +1,5 @@
 .button {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   min-height: 48px;
   padding: 13px 20px;
@@ -11,6 +12,8 @@
   text-align: center;
   text-decoration: none;
   color: #ffffff;
+  -webkit-transition: background-color 0.2s ease-out;
+  -o-transition: background-color 0.2s ease-out;
   transition: background-color 0.2s ease-out;
 }
 
