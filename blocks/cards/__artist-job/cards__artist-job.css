@@ -2,8 +2,9 @@
   margin: 0;
   font-style: normal;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.22;
   text-align: center;
+  text-transform: lowercase;
   color: #ffffff;
 }
