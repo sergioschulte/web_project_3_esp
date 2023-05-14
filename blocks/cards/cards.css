@@ -20,6 +20,6 @@
 @media screen and (max-width: 540px) {
   .cards {
     max-width: 414px;
-    row-gap: 28px;
+    row-gap: 44px;
   }
 }
